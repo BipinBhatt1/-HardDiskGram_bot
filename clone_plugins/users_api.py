@@ -1,5 +1,3 @@
-
-
 import requests
 import json
 from motor.motor_asyncio import AsyncIOMotorClient
