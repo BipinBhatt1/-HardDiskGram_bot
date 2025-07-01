@@ -1,5 +1,3 @@
-
-
 import re
 from pyrogram import filters, Client, enums
 from clone_plugins.users_api import get_user, get_short_link
